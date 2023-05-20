@@ -1,1 +1,2 @@
-This project made to users add their expenses and manage them. They can see their expenses through charts by year, month and day.
+******************* THIS PROJECT IS NOT COMPLETED YET ********************
+This web application made for users to add their expenses and manage them. They can see their expenses through charts by year, month and day.
